@@ -1,5 +1,14 @@
 # Programming-Pearls
-Book Summary. Programming Pearls. Jon Bentley. 2/E.
+- Book Summary: Programming Thinking about below things
+	1. (이하 1부)Problem Understanding
+	2. Select Data Structure
+	3. Algorithm Design
+	4. Test Code Development
+	5. Debugging
+	6. (2부)Performance Design Level
+	7. (3부)Practical Programming Process
+	
+- Reference: Programming Pearls. Jon Bentley. 2/E.
 
 ## 1부. 준비
 ### 칼럼1. 조개껍질깨기
