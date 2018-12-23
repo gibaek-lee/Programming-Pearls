@@ -29,8 +29,7 @@ Book Summary. Programming Pearls. Jon Bentley. 2/E.
   - Third. 관찰과 질문을 기반으로 한 디버깅
 
 <p align="center">
-  <img width="80%" src="Programming-Pearls.png" />
-  about 칼럼4 and 칼럼5
+  <img width="30%" src="Programming-Pearls.png" />
 </p>
 
 ## 2부. 퍼포먼스
